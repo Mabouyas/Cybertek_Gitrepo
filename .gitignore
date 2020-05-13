@@ -1,0 +1,8 @@
+# Ignore all .idea /
+.idea/
+
+# Ignore all out/
+out/
+
+# Ignore all file *.iml
+*.iml
