@@ -33,7 +33,7 @@ class Test{
 
 
 
-public class StaticsReview {
+ class StaticsReview {
 	
 	static int a;  //1 copy
 	int b; // 2, each object has its own copy of instance variable
